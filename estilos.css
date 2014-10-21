@@ -1,0 +1,32 @@
+body
+{background-image: url("diagonales.png");
+
+		font-size: 30px;
+	font-family: courrier;
+	color:#05F;
+			
+}
+
+#caja_1
+{
+	margin: 5px;
+	font-size: 25px;
+	text-align: center;
+	width: 80%;
+}
+
+.esTabla
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: black;
+	background-color: white;
+	width: 80%;
+	border: 3px solid black;
+	border-radius: 15px;
+	font-size: 20px;
+	
+   	white-space: normal;
+}
